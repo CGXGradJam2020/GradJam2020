@@ -75,3 +75,7 @@ DerivedDataCache/*
 
 # Starter Content
 Content/StarterContent/**
+CGX2020Project/Intermediate/*
+CGX2020Project/Saved/*
+CGX2020Project/Intermediate/**
+CGX2020Project/Saved/**
