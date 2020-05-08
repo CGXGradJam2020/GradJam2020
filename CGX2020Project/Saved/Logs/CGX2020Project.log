@@ -779,3 +779,1102 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.08-18.35.46:328][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.05.08-18.35.46:337][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
 [2020.05.08-18.35.46:362][900]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.05.08-18.36.28:207][588]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-18.36.29:206][672]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint5)
+[2020.05.08-18.36.31:137][897]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.36.31:149][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.36.31:149][897]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:36:31 a.m.)
+[2020.05.08-18.36.31:149][897]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.36.31:206][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056385s)
+[2020.05.08-18.36.31:207][897]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.36.31:207][897]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2020.05.08-18.36.31:207][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.057673s)
+[2020.05.08-18.36.31:231][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.05.08-18.36.31:232][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.36.31:232][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.36.31:232][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.36.31:233][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.36.31:233][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.36.31:233][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.36.31:233][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.36.31:233][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.36.31:233][897]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.36.31:233][897]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.36.31:387][897]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.36.31:387][897]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.36.31:387][897]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.36.31:387][897]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.36.31:387][897]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.36.31:387][897]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.36.31:387][897]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.36.31:387][897]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.36.31:387][897]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.36.31:408][897]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.36.31:410][897]LogInit: FAudioDevice initialized.
+[2020.05.08-18.36.31:425][897]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.36.31:456][897]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.36.31
+[2020.05.08-18.36.31:457][897]LogWorld: Bringing up level for play took: 0.032018
+[2020.05.08-18.36.31:458][897]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.05.08-18.36.31:462][897]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon 0.433
+[2020.05.08-18.36.32:633][ 31]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.36.35:836][415]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.36.37:595][626]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.36.39:220][821]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.36.39:270][827]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.36.43:450][328]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.36.43:558][341]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.36.49:137][ 10]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.37.12:142][770]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.37.12:159][770]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.37.12:179][770]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.37.12:180][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.37.12:180][770]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.37.12:180][770]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.37.12:181][770]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.37.12:185][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.37.12:190][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.37.12:195][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.37.12:221][770]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.37.12:225][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.37.12:232][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.05.08-18.37.12:249][771]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.05.08-18.37.14:273][ 11]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.37.14:286][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.37.14:286][ 11]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:37:14 a.m.)
+[2020.05.08-18.37.14:286][ 11]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.37.14:343][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056135s)
+[2020.05.08-18.37.14:343][ 11]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.37.14:344][ 11]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2020.05.08-18.37.14:344][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.057360s)
+[2020.05.08-18.37.14:368][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.05.08-18.37.14:368][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.37.14:368][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.37.14:368][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.37.14:368][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.37.14:368][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.37.14:368][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.37.14:368][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.37.14:368][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.37.14:369][ 11]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.37.14:369][ 11]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.37.14:530][ 11]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.37.14:530][ 11]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.37.14:530][ 11]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.37.14:530][ 11]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.37.14:530][ 11]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.37.14:530][ 11]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.37.14:530][ 11]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.37.14:530][ 11]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.37.14:530][ 11]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.37.14:551][ 11]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.37.14:552][ 11]LogInit: FAudioDevice initialized.
+[2020.05.08-18.37.14:564][ 11]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.37.14:594][ 11]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.37.14
+[2020.05.08-18.37.14:595][ 11]LogWorld: Bringing up level for play took: 0.029970
+[2020.05.08-18.37.14:595][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.05.08-18.37.14:598][ 11]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon -0.431
+[2020.05.08-18.37.18:530][477]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.37.24:599][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.37.24:619][201]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.37.24:649][201]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.37.24:650][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.37.24:650][201]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.37.24:650][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.37.24:650][201]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.37.24:655][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.37.24:664][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.37.24:668][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.37.24:689][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.37.24:692][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.37.24:701][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.05.08-18.37.24:718][202]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.05.08-18.37.25:828][326]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-18.37.26:029][342]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-18.37.26:069][343]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-18.37.26:618][405]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-18.37.27:044][454]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long15)
+[2020.05.08-18.37.27:280][479]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.08-18.37.30:887][905]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.37.30:900][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.37.30:900][905]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:37:30 a.m.)
+[2020.05.08-18.37.30:900][905]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.37.30:954][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054252s)
+[2020.05.08-18.37.30:955][905]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.37.30:955][905]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2020.05.08-18.37.30:956][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.055492s)
+[2020.05.08-18.37.30:981][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.05.08-18.37.30:983][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.37.30:983][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.37.30:983][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.37.30:983][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.37.30:983][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.37.30:983][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.37.30:983][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.37.30:983][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.37.30:984][905]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.37.30:984][905]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.37.31:141][905]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.37.31:141][905]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.37.31:141][905]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.37.31:141][905]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.37.31:141][905]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.37.31:141][905]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.37.31:141][905]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.37.31:141][905]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.37.31:141][905]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.37.31:162][905]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.37.31:163][905]LogInit: FAudioDevice initialized.
+[2020.05.08-18.37.31:178][905]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.37.31:206][905]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.37.31
+[2020.05.08-18.37.31:208][905]LogWorld: Bringing up level for play took: 0.029286
+[2020.05.08-18.37.31:208][905]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.05.08-18.37.31:212][905]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon 0.183
+[2020.05.08-18.37.32:482][ 51]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.37.33:857][216]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.37.33:898][221]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.37.37:674][674]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.37.37:891][700]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.37.38:057][720]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.37.39:657][912]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.37.39:774][926]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.37.39:866][937]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.37.40:083][963]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.37.46:117][687]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.37.46:217][699]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.37.46:308][710]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.37.46:525][736]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.37.46:608][746]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.37.47:566][861]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.37.50:633][229]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.37.56:948][986]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.37.57:173][ 13]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.37.57:340][ 33]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.38.00:150][370]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.38.00:159][370]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.38.00:179][370]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.38.00:180][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.38.00:180][370]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.38.00:180][370]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.38.00:180][370]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.38.00:185][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.38.00:197][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.38.00:201][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.38.00:230][370]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.38.00:233][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.38.00:242][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.05.08-18.38.00:262][371]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.05.08-18.38.01:171][478]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long14)
+[2020.05.08-18.38.03:723][779]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long15)
+[2020.05.08-18.38.06:296][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.38.06:307][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.38.06:307][ 75]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:38:06 a.m.)
+[2020.05.08-18.38.06:307][ 75]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.38.06:363][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055628s)
+[2020.05.08-18.38.06:364][ 75]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.38.06:364][ 75]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2020.05.08-18.38.06:364][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.056802s)
+[2020.05.08-18.38.06:389][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.05.08-18.38.06:391][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.38.06:391][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.38.06:391][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.38.06:391][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.38.06:391][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.38.06:391][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.38.06:391][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.38.06:391][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.38.06:391][ 75]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.38.06:391][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.38.06:544][ 75]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.38.06:545][ 75]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.38.06:545][ 75]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.38.06:545][ 75]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.38.06:545][ 75]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.38.06:545][ 75]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.38.06:545][ 75]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.38.06:545][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.38.06:545][ 75]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.38.06:565][ 75]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.38.06:566][ 75]LogInit: FAudioDevice initialized.
+[2020.05.08-18.38.06:581][ 75]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.38.06:611][ 75]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.38.06
+[2020.05.08-18.38.06:612][ 75]LogWorld: Bringing up level for play took: 0.029822
+[2020.05.08-18.38.06:612][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.05.08-18.38.06:615][ 75]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon -0.414
+[2020.05.08-18.38.11:934][707]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.38.18:700][519]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.38.19:592][626]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.38.19:667][635]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.38.21:634][871]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.38.21:784][889]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.38.23:934][147]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.38.24:067][163]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.38.26:053][401]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.38.26:203][419]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.38.30:877][975]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.38.30:879][975]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.38.30:909][975]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.38.30:910][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.38.30:910][975]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.38.30:910][975]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.38.30:911][975]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.38.30:916][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.38.30:921][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.38.30:925][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.38.30:949][975]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.38.30:952][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.38.30:962][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.05.08-18.38.30:983][976]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.05.08-18.38.31:802][ 72]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long15)
+[2020.05.08-18.38.34:268][363]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long14)
+[2020.05.08-18.38.37:213][711]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long15)
+[2020.05.08-18.38.39:765][ 11]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long14)
+[2020.05.08-18.38.41:770][244]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.38.41:781][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.38.41:781][244]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:38:41 a.m.)
+[2020.05.08-18.38.41:782][244]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.38.41:837][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055266s)
+[2020.05.08-18.38.41:838][244]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.38.41:838][244]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2020.05.08-18.38.41:838][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.056460s)
+[2020.05.08-18.38.41:864][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.05.08-18.38.41:866][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.38.41:866][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.38.41:866][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.38.41:866][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.38.41:866][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.38.41:866][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.38.41:866][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.38.41:866][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.38.41:866][244]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.38.41:866][244]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.38.42:023][244]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.38.42:023][244]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.38.42:023][244]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.38.42:023][244]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.38.42:023][244]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.38.42:023][244]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.38.42:023][244]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.38.42:023][244]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.38.42:023][244]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.38.42:045][244]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.38.42:047][244]LogInit: FAudioDevice initialized.
+[2020.05.08-18.38.42:061][244]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.38.42:091][244]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.38.42
+[2020.05.08-18.38.42:092][244]LogWorld: Bringing up level for play took: 0.030333
+[2020.05.08-18.38.42:092][244]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.05.08-18.38.42:096][244]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon 1.067
+[2020.05.08-18.38.44:065][474]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.38.44:224][493]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.38.45:599][658]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.38.45:782][680]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.38.46:840][807]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.38.49:443][116]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.38.50:360][226]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.38.50:418][233]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.38.51:885][409]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.38.52:662][502]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.38.55:663][862]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.38.55:713][868]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.38.55:737][871]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.39.02:930][733]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.39.03:831][841]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.39.03:905][850]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.39.05:514][ 43]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.39.06:307][138]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.39.10:408][630]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.39.15:775][274]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.39.15:817][279]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.39.15:850][283]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.39.23:935][253]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.39.29:140][877]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.39.29:150][877]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.39.29:169][877]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.39.29:169][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.39.29:169][877]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.39.29:169][877]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.39.29:170][877]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.39.29:174][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.39.29:183][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.39.29:187][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.39.29:215][877]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.39.29:218][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.39.29:229][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.05.08-18.39.29:247][878]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.05.08-18.39.30:065][973]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-18.39.30:930][ 62]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long15)
+[2020.05.08-18.39.31:117][ 81]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.08-18.39.32:908][285]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long14)
+[2020.05.08-18.39.38:027][892]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.39.38:041][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.39.38:041][892]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:39:38 a.m.)
+[2020.05.08-18.39.38:041][892]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.39.38:095][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053215s)
+[2020.05.08-18.39.38:096][892]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.39.38:096][892]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2020.05.08-18.39.38:096][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.054772s)
+[2020.05.08-18.39.38:120][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.05.08-18.39.38:122][892]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.39.38:122][892]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.39.38:122][892]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.39.38:122][892]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.39.38:122][892]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.39.38:122][892]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.39.38:122][892]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.39.38:122][892]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.39.38:122][892]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.39.38:122][892]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.39.38:277][892]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.39.38:277][892]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.39.38:277][892]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.39.38:277][892]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.39.38:277][892]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.39.38:277][892]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.39.38:277][892]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.39.38:277][892]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.39.38:277][892]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.39.38:297][892]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.39.38:299][892]LogInit: FAudioDevice initialized.
+[2020.05.08-18.39.38:313][892]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.39.38:343][892]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.39.38
+[2020.05.08-18.39.38:344][892]LogWorld: Bringing up level for play took: 0.030052
+[2020.05.08-18.39.38:344][892]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.05.08-18.39.38:347][892]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon -0.682
+[2020.05.08-18.39.40:165][104]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.39.41:340][245]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.39.41:690][287]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.39.43:865][548]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.39.43:933][556]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.39.46:191][827]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.39.46:258][835]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.39.47:799][ 20]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.39.48:158][ 63]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.39.48:207][ 69]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.39.50:192][307]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.39.50:542][349]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.39.52:653][602]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.39.55:269][916]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.39.55:652][962]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.39.58:250][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.39.58:259][271]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.39.58:279][271]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.39.58:279][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.39.58:279][271]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.39.58:279][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.39.58:280][271]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.39.58:284][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.39.58:289][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.39.58:293][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.39.58:319][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.39.58:322][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.39.58:332][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.05.08-18.39.58:350][272]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.05.08-18.39.59:093][359]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long14)
+[2020.05.08-18.40.06:705][262]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long15)
+[2020.05.08-18.40.09:938][638]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.40.09:951][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.40.09:951][638]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:40:09 a.m.)
+[2020.05.08-18.40.09:951][638]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.40.10:010][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058614s)
+[2020.05.08-18.40.10:011][638]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.40.10:011][638]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2020.05.08-18.40.10:011][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.060245s)
+[2020.05.08-18.40.10:037][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.05.08-18.40.10:039][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.40.10:039][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.40.10:039][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.40.10:039][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.40.10:039][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.40.10:039][638]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.40.10:039][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.40.10:039][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.40.10:040][638]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.40.10:040][638]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.40.10:194][638]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.40.10:194][638]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.40.10:194][638]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.40.10:194][638]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.40.10:194][638]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.40.10:194][638]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.40.10:194][638]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.40.10:194][638]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.40.10:194][638]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.40.10:213][638]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.40.10:214][638]LogInit: FAudioDevice initialized.
+[2020.05.08-18.40.10:229][638]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.40.10:258][638]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.40.10
+[2020.05.08-18.40.10:260][638]LogWorld: Bringing up level for play took: 0.029154
+[2020.05.08-18.40.10:260][638]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.05.08-18.40.10:263][638]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon 1.234
+[2020.05.08-18.40.11:681][802]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.12:916][950]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.40.14:857][183]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.40.17:299][476]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.40.18:933][672]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.40.19:341][721]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.40.21:084][930]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.40.23:834][260]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.23:877][265]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.26:252][550]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.40.26:351][562]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.40.27:504][700]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.30:113][ 13]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.34:890][586]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.34:932][591]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.34:965][595]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.36:490][778]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.41:077][328]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.41:111][332]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.41:137][335]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.47:852][140]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.47:902][146]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.47:927][149]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.49:560][345]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.40.56:478][175]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.41.03:453][  9]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.41.04:844][176]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.41.26:944][822]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.41.29:336][109]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.41.29:678][150]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.41.29:753][159]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.41.31:388][355]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.41.31:588][379]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.41.33:339][589]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.41.33:398][596]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.41.38:666][228]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.41.48:385][394]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.41.51:652][786]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.41.51:710][793]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.41.55:117][201]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.41.58:743][636]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.00:777][880]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.42.00:789][880]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.42.00:809][880]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.42.00:809][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.42.00:809][880]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.42.00:809][880]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.42.00:810][880]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.42.00:816][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.42.00:824][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.42.00:828][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.42.00:857][880]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.42.00:860][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.42.00:869][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.05.08-18.42.00:888][881]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.05.08-18.42.02:343][ 52]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-18.42.02:771][100]LogEditorViewport: Clicking on Actor (double click): Spike_Long_C (Spike_Long14)
+[2020.05.08-18.42.03:316][163]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.08-18.42.07:398][642]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-18.42.08:095][722]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long15)
+[2020.05.08-18.42.09:881][930]Cmd: TRANSACTION UNDO
+[2020.05.08-18.42.09:881][930]LogEditorTransaction: Undo Move Actors
+[2020.05.08-18.42.11:679][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.42.11:691][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.42.11:691][ 91]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:42:11 a.m.)
+[2020.05.08-18.42.11:691][ 91]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.42.11:746][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054703s)
+[2020.05.08-18.42.11:747][ 91]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.42.11:747][ 91]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2020.05.08-18.42.11:747][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.056024s)
+[2020.05.08-18.42.11:771][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.05.08-18.42.11:773][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.42.11:773][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.42.11:773][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.42.11:773][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.42.11:773][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.42.11:773][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.42.11:773][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.42.11:773][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.42.11:773][ 91]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.42.11:773][ 91]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.42.11:930][ 91]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.42.11:930][ 91]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.42.11:930][ 91]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.42.11:930][ 91]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.42.11:930][ 91]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.42.11:930][ 91]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.42.11:930][ 91]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.42.11:930][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.42.11:930][ 91]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.42.11:953][ 91]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.42.11:954][ 91]LogInit: FAudioDevice initialized.
+[2020.05.08-18.42.11:966][ 91]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.42.11:996][ 91]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.42.11
+[2020.05.08-18.42.11:998][ 91]LogWorld: Bringing up level for play took: 0.031513
+[2020.05.08-18.42.11:998][ 91]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.05.08-18.42.12:001][ 91]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon 0.972
+[2020.05.08-18.42.13:543][269]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.42.17:427][735]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.17:527][747]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.18:928][915]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.42.19:153][942]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.21:825][260]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.21:884][267]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.23:176][422]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.42.26:010][762]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.42.29:097][132]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.31:849][462]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.42.32:251][510]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.34:684][802]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.38:036][204]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.40:378][485]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.40:444][493]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.42:629][755]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.42.48:239][428]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.42.49:205][544]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.43.05:170][459]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.43.08:663][878]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.43.11:071][167]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.43.12:379][324]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.43.12:737][367]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.43.12:787][373]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.43.14:622][593]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.43.19:314][156]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.43.24:226][743]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.43.29:213][340]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.43.31:562][622]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.43.39:138][531]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.43.42:364][918]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.43.42:369][918]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.43.42:389][918]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.43.42:389][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.43.42:389][918]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.43.42:389][918]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.43.42:390][918]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.43.42:394][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.43.42:404][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.43.42:408][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.43.42:432][918]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.43.42:436][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.43.42:445][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.05.08-18.43.42:487][920]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.05.08-18.43.43:787][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-18.43.44:358][137]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long15)
+[2020.05.08-18.43.47:787][525]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.43.47:798][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.43.47:798][525]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:43:47 a.m.)
+[2020.05.08-18.43.47:798][525]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.43.47:853][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055583s)
+[2020.05.08-18.43.47:854][525]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.43.47:854][525]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2020.05.08-18.43.47:854][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.056734s)
+[2020.05.08-18.43.47:881][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.05.08-18.43.47:883][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.43.47:883][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.43.47:883][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.43.47:883][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.43.47:883][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.43.47:883][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.43.47:883][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.43.47:883][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.43.47:884][525]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.43.47:884][525]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.43.48:043][525]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.43.48:043][525]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.43.48:043][525]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.43.48:043][525]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.43.48:043][525]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.43.48:043][525]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.43.48:043][525]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.43.48:043][525]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.43.48:043][525]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.43.48:064][525]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.43.48:065][525]LogInit: FAudioDevice initialized.
+[2020.05.08-18.43.48:082][525]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.43.48:114][525]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.43.48
+[2020.05.08-18.43.48:115][525]LogWorld: Bringing up level for play took: 0.032312
+[2020.05.08-18.43.48:115][525]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.05.08-18.43.48:118][525]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon 1.089
+[2020.05.08-18.43.49:931][736]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.43.59:957][939]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.44.02:036][188]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.44.16:513][925]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.44.16:555][930]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.44.16:589][934]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.44.19:673][304]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.44.25:774][ 36]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.44.35:711][225]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.44.37:911][489]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.44.53:897][407]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.45.01:431][311]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.45.12:683][661]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.45.20:236][567]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.45.27:832][478]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.45.27:873][483]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.45.27:906][487]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.45.37:522][638]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.45.39:475][872]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.45.44:723][499]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.45.46:382][698]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.45.47:285][806]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.46.02:999][689]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.46.07:824][262]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.46.07:839][262]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.46.07:859][262]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.46.07:860][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.46.07:860][262]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.46.07:860][262]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.46.07:861][262]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.46.07:865][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.46.07:876][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.46.07:880][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.46.07:905][262]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.46.07:910][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.46.07:920][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.05.08-18.46.07:939][263]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.05.08-18.46.56:003][815]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.46.56:015][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.46.56:016][815]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:46:56 a.m.)
+[2020.05.08-18.46.56:016][815]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.46.56:078][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062192s)
+[2020.05.08-18.46.56:079][815]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.46.56:079][815]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2020.05.08-18.46.56:079][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.063695s)
+[2020.05.08-18.46.56:106][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.05.08-18.46.56:107][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.46.56:107][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.46.56:107][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.46.56:107][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.46.56:107][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.46.56:107][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.46.56:107][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.46.56:107][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.46.56:108][815]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.46.56:108][815]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.46.56:279][815]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.46.56:279][815]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.46.56:279][815]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.46.56:279][815]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.46.56:279][815]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.46.56:279][815]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.46.56:279][815]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.46.56:279][815]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.46.56:279][815]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.46.56:300][815]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.46.56:301][815]LogInit: FAudioDevice initialized.
+[2020.05.08-18.46.56:314][815]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.46.56:349][815]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.46.56
+[2020.05.08-18.46.56:351][815]LogWorld: Bringing up level for play took: 0.036012
+[2020.05.08-18.46.56:351][815]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.05.08-18.46.56:355][815]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon 1.326
+[2020.05.08-18.46.58:278][ 34]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.46.59:261][151]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.47.02:900][586]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.47.22:936][974]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.47.25:866][322]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.47.29:504][755]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.47.32:024][ 56]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.47.38:758][862]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.47.46:871][831]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.47.46:889][831]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.47.46:909][831]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.47.46:909][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.47.46:909][831]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.47.46:909][831]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.47.46:910][831]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.47.46:914][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.47.46:925][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.47.46:929][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.47.46:956][831]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.47.46:959][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.47.46:971][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.05.08-18.47.46:990][832]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.05.08-18.47.48:343][982]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long14)
+[2020.05.08-18.47.53:952][638]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long15)
+[2020.05.08-18.47.56:533][920]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.47.56:544][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.47.56:544][920]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:47:56 a.m.)
+[2020.05.08-18.47.56:544][920]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.47.56:597][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053647s)
+[2020.05.08-18.47.56:597][920]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.47.56:598][920]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2020.05.08-18.47.56:598][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.054826s)
+[2020.05.08-18.47.56:623][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.05.08-18.47.56:624][920]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.47.56:624][920]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.47.56:624][920]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.47.56:624][920]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.47.56:624][920]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.47.56:624][920]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.47.56:624][920]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.47.56:624][920]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.47.56:625][920]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.47.56:625][920]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.47.56:792][920]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.47.56:792][920]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.47.56:792][920]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.47.56:792][920]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.47.56:792][920]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.47.56:792][920]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.47.56:792][920]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.47.56:792][920]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.47.56:792][920]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.47.56:813][920]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.47.56:815][920]LogInit: FAudioDevice initialized.
+[2020.05.08-18.47.56:828][920]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.47.56:862][920]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.47.56
+[2020.05.08-18.47.56:864][920]LogWorld: Bringing up level for play took: 0.035110
+[2020.05.08-18.47.56:864][920]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.05.08-18.47.56:867][920]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon -0.163
+[2020.05.08-18.47.59:180][188]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.47.59:199][188]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.47.59:229][188]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.47.59:229][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.47.59:229][188]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.47.59:229][188]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.47.59:230][188]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.47.59:234][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.47.59:242][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.47.59:246][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.47.59:278][188]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.47.59:281][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.47.59:291][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.05.08-18.47.59:310][189]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.05.08-18.48.00:061][277]LogEditorViewport: Clicking on Actor (LMB): Spike_Long_C (Spike_Long15)
+[2020.05.08-18.48.02:705][583]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-18.48.03:533][676]Cmd: TRANSACTION UNDO
+[2020.05.08-18.48.03:533][676]LogEditorTransaction: Undo Move Actors
+[2020.05.08-18.48.06:058][919]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.48.06:070][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.48.06:070][919]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:48:06 a.m.)
+[2020.05.08-18.48.06:070][919]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.48.06:130][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059398s)
+[2020.05.08-18.48.06:131][919]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.48.06:131][919]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2020.05.08-18.48.06:131][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.060677s)
+[2020.05.08-18.48.06:155][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.05.08-18.48.06:157][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.48.06:157][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.48.06:157][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.48.06:157][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.48.06:157][919]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.48.06:157][919]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.48.06:157][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.48.06:157][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.48.06:158][919]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.48.06:158][919]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.48.06:323][919]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.48.06:323][919]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.48.06:323][919]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.48.06:323][919]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.48.06:323][919]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.48.06:323][919]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.48.06:323][919]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.48.06:323][919]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.48.06:323][919]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.48.06:344][919]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.48.06:345][919]LogInit: FAudioDevice initialized.
+[2020.05.08-18.48.06:359][919]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.48.06:387][919]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.48.06
+[2020.05.08-18.48.06:388][919]LogWorld: Bringing up level for play took: 0.028148
+[2020.05.08-18.48.06:388][919]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.05.08-18.48.06:391][919]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon -0.638
+[2020.05.08-18.48.22:703][861]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.48.28:788][587]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.48.28:838][593]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.48.28:863][596]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.48.40:843][ 24]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.48.40:884][ 29]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.48.40:920][ 33]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.48.57:008][955]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.49.02:793][644]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.49.05:761][999]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.49.15:270][134]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.49.17:609][413]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.49.26:021][417]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.49.26:049][417]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.49.26:069][417]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.49.26:070][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.49.26:070][417]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.49.26:070][417]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.49.26:070][417]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.49.26:076][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.49.26:086][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.49.26:092][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.49.26:118][417]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.49.26:123][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.49.26:133][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.05.08-18.49.26:153][418]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.05.08-18.49.38:055][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_towerwall806)
+[2020.05.08-18.49.53:591][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_towerwall872)
+[2020.05.08-18.49.54:334][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_towerwall807)
+[2020.05.08-18.50.09:058][386]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.50.09:070][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.50.09:070][386]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:50:09 a.m.)
+[2020.05.08-18.50.09:070][386]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.50.09:139][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068883s)
+[2020.05.08-18.50.09:140][386]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.50.09:140][386]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2020.05.08-18.50.09:141][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.070622s)
+[2020.05.08-18.50.09:181][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.05.08-18.50.09:187][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.50.09:187][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.50.09:187][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.50.09:187][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.50.09:187][386]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.50.09:187][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.50.09:187][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.50.09:187][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.50.09:188][386]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.50.09:188][386]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.50.09:345][386]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.50.09:345][386]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.50.09:345][386]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.50.09:345][386]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.50.09:345][386]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.50.09:345][386]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.50.09:345][386]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.50.09:345][386]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.50.09:345][386]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.50.09:370][386]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.50.09:372][386]LogInit: FAudioDevice initialized.
+[2020.05.08-18.50.09:385][386]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.50.09:420][386]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.50.09
+[2020.05.08-18.50.09:421][386]LogWorld: Bringing up level for play took: 0.035259
+[2020.05.08-18.50.09:421][386]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.05.08-18.50.09:426][386]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon 0.397
+[2020.05.08-18.50.11:650][645]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.50.13:316][844]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.50.13:694][889]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.50.14:371][969]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.50.14:389][969]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.50.14:409][969]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.50.14:409][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.50.14:409][969]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.50.14:409][969]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.50.14:410][969]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.50.14:415][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.50.14:421][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.50.14:428][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.50.14:457][969]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.50.14:460][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.50.14:466][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.05.08-18.50.14:484][970]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.05.08-18.50.15:825][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_towerwall873)
+[2020.05.08-18.50.16:546][206]Cmd: DELETE
+[2020.05.08-18.50.16:546][206]Cmd: ACTOR DELETE
+[2020.05.08-18.50.16:567][206]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.08-18.50.16:591][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.05.08-18.50.16:592][206]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.05.08-18.50.21:885][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kori_Jump_Ref5)
+[2020.05.08-18.50.28:684][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kori_Jump_Ref5)
+[2020.05.08-18.50.45:047][393]LogPhysics: Warning: Scale for /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon:PersistentLevel.Spike_small3_2.Spike has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2020.05.08-18.50.45:047][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.08-18.50.45:047][393]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.08-18.50.45:047][393]LogPhysics: Warning: Scale for /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon:PersistentLevel.Spike_small3_2.HurtBox has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2020.05.08-18.50.45:047][393]LogPhysics: Warning: Scale for /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon:PersistentLevel.Spike_small3_2.Spike has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2020.05.08-18.50.45:047][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.08-18.50.45:047][393]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.08-18.50.45:048][393]LogPhysics: Warning: Scale for /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon:PersistentLevel.Spike_small3_2.Spike has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2020.05.08-18.50.45:048][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.08-18.50.45:048][393]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.08-18.50.45:453][440]LogPhysics: Warning: Scale for /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon:PersistentLevel.Spike_small3_2.Spike has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2020.05.08-18.50.45:453][440]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.08-18.50.45:453][440]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.08-18.50.45:453][440]LogPhysics: Warning: Scale for /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon:PersistentLevel.Spike_small3_2.HurtBox has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2020.05.08-18.50.45:454][440]LogPhysics: Warning: Scale for /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon:PersistentLevel.Spike_small3_2.Spike has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2020.05.08-18.50.45:454][440]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.08-18.50.45:454][440]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.08-18.50.45:454][440]LogPhysics: Warning: Scale for /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon:PersistentLevel.Spike_small3_2.Spike has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2020.05.08-18.50.45:454][440]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.08-18.50.45:454][440]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.08-18.50.45:770][475]Cmd: TRANSACTION UNDO
+[2020.05.08-18.50.45:770][475]LogEditorTransaction: Undo Scale Actors
+[2020.05.08-18.51.01:669][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_towerwall872)
+[2020.05.08-18.51.01:800][258]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.08-18.51.07:390][878]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.51.07:403][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.51.07:403][878]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:51:07 a.m.)
+[2020.05.08-18.51.07:403][878]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.51.07:467][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063747s)
+[2020.05.08-18.51.07:468][878]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.51.07:468][878]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2020.05.08-18.51.07:468][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.064981s)
+[2020.05.08-18.51.07:498][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.05.08-18.51.07:502][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.51.07:502][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.51.07:502][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.51.07:502][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.51.07:502][878]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.51.07:502][878]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.51.07:502][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.51.07:502][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.51.07:503][878]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.51.07:503][878]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.51.07:663][878]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.51.07:663][878]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.51.07:663][878]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.51.07:663][878]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.51.07:663][878]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.51.07:663][878]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.51.07:663][878]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.51.07:663][878]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.51.07:663][878]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.51.07:684][878]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.51.07:686][878]LogInit: FAudioDevice initialized.
+[2020.05.08-18.51.07:702][878]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.51.07:736][878]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.51.07
+[2020.05.08-18.51.07:738][878]LogWorld: Bringing up level for play took: 0.034083
+[2020.05.08-18.51.07:738][878]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.05.08-18.51.07:742][878]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon 0.713
+[2020.05.08-18.51.09:006][ 22]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.51.10:068][149]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.51.14:850][715]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.51.25:065][933]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.51.27:828][262]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.51.31:871][744]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.51.34:569][ 65]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.51.36:503][295]LogBlueprintUserMessages: [Spike_Long14] OWIEEEE :(
+[2020.05.08-18.51.38:124][489]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.51.40:712][799]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.51.43:543][136]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.51.45:271][343]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.51.52:063][151]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.51.52:079][151]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.51.52:098][151]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.51.52:099][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.51.52:099][151]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.51.52:099][151]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.51.52:100][151]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.51.52:104][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.51.52:112][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.51.52:116][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.51.52:143][151]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.51.52:146][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.51.52:155][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.05.08-18.51.52:175][152]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.05.08-18.51.56:189][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_towerwall872)
+[2020.05.08-18.52.13:086][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kori_Jump_Ref5)
+[2020.05.08-18.52.14:841][756]LogEditorViewport: Clicking on Actor (LMB): Spike_small_C (Spike_small3)
+[2020.05.08-18.52.20:441][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kori_Jump_Ref6)
+[2020.05.08-18.52.27:744][217]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.08-18.52.29:274][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kori_Jump_Ref5)
+[2020.05.08-18.52.30:062][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kori_Jump_Ref4)
+[2020.05.08-18.52.31:062][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kori_Jump_Ref7)
+[2020.05.08-18.52.34:416][960]Cmd: TRANSACTION UNDO
+[2020.05.08-18.52.34:416][960]LogEditorTransaction: Undo Move Actors
+[2020.05.08-18.52.34:984][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kori_Jump_Ref5)
+[2020.05.08-18.52.35:762][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kori_Jump_Ref4)
+[2020.05.08-18.52.38:215][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kori_Jump_Ref6)
+[2020.05.08-18.52.39:848][509]LogEditorViewport: Clicking on Actor (LMB): Spike_small_C (Spike_small3)
+[2020.05.08-18.52.51:899][867]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.52.51:913][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.52.51:913][867]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:52:51 a.m.)
+[2020.05.08-18.52.51:913][867]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.52.51:977][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063410s)
+[2020.05.08-18.52.51:978][867]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.52.51:979][867]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2020.05.08-18.52.51:979][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.065301s)
+[2020.05.08-18.52.52:003][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.05.08-18.52.52:005][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.52.52:005][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.52.52:005][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.52.52:005][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.52.52:005][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.52.52:005][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.52.52:005][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.52.52:005][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.52.52:005][867]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.52.52:005][867]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.52.52:170][867]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.52.52:170][867]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.52.52:170][867]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.52.52:171][867]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.52.52:171][867]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.52.52:171][867]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.52.52:171][867]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.52.52:171][867]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.52.52:171][867]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.52.52:194][867]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.52.52:195][867]LogInit: FAudioDevice initialized.
+[2020.05.08-18.52.52:206][867]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.52.52:240][867]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.52.52
+[2020.05.08-18.52.52:241][867]LogWorld: Bringing up level for play took: 0.034287
+[2020.05.08-18.52.52:241][867]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.05.08-18.52.52:246][867]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon 1.216
+[2020.05.08-18.53.06:648][576]LogBlueprintUserMessages: [Spike_Long15] OWIEEEE :(
+[2020.05.08-18.53.07:878][723]LogBlueprintUserMessages: [Spike_small3_2] OWIEEEE :(
+[2020.05.08-18.53.08:422][788]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.53.11:956][205]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.53.12:981][328]LogBlueprintUserMessages: [Spike_small3_2] OWIEEEE :(
+[2020.05.08-18.53.13:573][399]LogBlueprintUserMessages: [Spike_Long16] OWIEEEE :(
+[2020.05.08-18.53.30:640][438]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.53.30:659][438]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.53.30:680][438]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.53.30:680][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.53.30:680][438]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.53.30:680][438]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.53.30:681][438]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.53.30:685][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.53.30:691][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.53.30:697][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.53.30:725][438]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.53.30:729][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.53.30:738][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.05.08-18.53.30:756][439]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.05.08-18.53.31:449][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.05.08-18.53.31:810][505]LogSavePackage: Moving '../../../../../Repos/CGXGrad2020/CGX2020Project/Saved/GameMap_Jon7C7B1C3D403926ED910A6D97D8F735F2.tmp' to '../../../../../Repos/CGXGrad2020/CGX2020Project/Content/GameContent/Maps/GameMap_Jon.umap'
+[2020.05.08-18.53.31:854][505]AssetCheck: New page: Asset Save: GameMap_Jon
+[2020.05.08-18.53.31:854][505]LogContentValidation: Display: Validating World /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon
+[2020.05.08-18.53.36:770][ 11]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameContent/Player/Kori.Kori
+[2020.05.08-18.53.37:005][ 11]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.05.08-18.53.38:125][ 11]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.08-18.53.38:217][ 12]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.08-18.53.56:490][231]BlueprintLog: New page: Compile Kori
+[2020.05.08-18.53.56:858][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.05.08-18.53.57:883][285]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-18.53.57:897][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-18.53.57:897][285]PIE: New page: PIE session: GameMap_Jon (May 8, 2020, 10:53:57 a.m.)
+[2020.05.08-18.53.57:897][285]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.53.57:953][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056040s)
+[2020.05.08-18.53.57:954][285]LogAIModule: Creating AISystem for world GameMap_Jon
+[2020.05.08-18.53.57:954][285]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2020.05.08-18.53.57:955][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon to /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon (0.057556s)
+[2020.05.08-18.53.58:000][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.05.08-18.53.58:002][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-18.53.58:002][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-18.53.58:002][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-18.53.58:002][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-18.53.58:002][285]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-18.53.58:002][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-18.53.58:002][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-18.53.58:002][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-18.53.58:002][285]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-18.53.58:002][285]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-18.53.58:184][285]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-18.53.58:185][285]LogAudioMixer: Display: Name: Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.53.58:185][285]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-18.53.58:185][285]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.08-18.53.58:185][285]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-18.53.58:185][285]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-18.53.58:185][285]LogAudioMixer: Display: Channel Order:
+[2020.05.08-18.53.58:185][285]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-18.53.58:185][285]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-18.53.58:207][285]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.05.08-18.53.58:209][285]LogInit: FAudioDevice initialized.
+[2020.05.08-18.53.58:226][285]LogLoad: Game class is 'CustomGameMode_C'
+[2020.05.08-18.53.58:258][285]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon.GameMap_Jon up for play (max tick rate 0) at 2020.05.08-14.53.58
+[2020.05.08-18.53.58:259][285]LogWorld: Bringing up level for play took: 0.031741
+[2020.05.08-18.53.58:259][285]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.05.08-18.53.58:263][285]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon 1.234
+[2020.05.08-18.53.59:966][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.53.59:989][415]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-18.54.00:009][415]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-18.54.00:009][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.54.00:009][415]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_GameMap_Jon
+[2020.05.08-18.54.00:010][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.54.00:011][415]LogWorld: UWorld::CleanupWorld for GameMap_Jon, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-18.54.00:016][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.54.00:033][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-18.54.00:039][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-18.54.00:074][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-18.54.00:078][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-18.54.00:089][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.05.08-18.54.00:170][416]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.05.08-18.54.00:688][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.05.08-18.54.01:038][451]LogSavePackage: Moving '../../../../../Repos/CGXGrad2020/CGX2020Project/Saved/GameMap_JonAEAA34CB41D857F72A6D819393915FD3.tmp' to '../../../../../Repos/CGXGrad2020/CGX2020Project/Content/GameContent/Maps/GameMap_Jon.umap'
+[2020.05.08-18.54.01:078][451]AssetCheck: New page: Asset Save: GameMap_Jon
+[2020.05.08-18.54.01:078][451]LogContentValidation: Display: Validating World /Game/GameContent/Maps/GameMap_Jon.GameMap_Jon
+[2020.05.08-18.54.12:482][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Player/Kori" FILE="../../../../../Repos/CGXGrad2020/CGX2020Project/Content/GameContent/Player/Kori.uasset" SILENT=true
+[2020.05.08-18.54.12:704][636]LogSavePackage: Moving '../../../../../Repos/CGXGrad2020/CGX2020Project/Saved/Kori2CEBF4FC4F46AA71C9F323A61ABE5BE2.tmp' to '../../../../../Repos/CGXGrad2020/CGX2020Project/Content/GameContent/Player/Kori.uasset'
+[2020.05.08-18.54.12:723][636]AssetCheck: New page: Asset Save: Kori
+[2020.05.08-18.54.12:723][636]LogContentValidation: Display: Validating Blueprint /Game/GameContent/Player/Kori.Kori
