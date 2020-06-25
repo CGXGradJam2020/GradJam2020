@@ -8,5 +8,12 @@
 			"Name": "Niagara",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"LinuxAArch64NoEditor",
+		"WindowsNoEditor",
+		"AllDesktop",
+		"LinuxNoEditor",
+		"MacNoEditor"
 	]
 }
